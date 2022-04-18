@@ -1,0 +1,57 @@
+
+.header {
+    text-align: center;
+    font-size: 36px;
+    color: rgb(235, 204, 33);
+    background-color: rgb(146, 172, 194);
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(images/pizzabackground.png);
+}
+
+
+
+.lasagna {
+    background-color: rgb(114, 114, 231);
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.pizza {
+    background-color: rgb(114, 114, 231);
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.pbj {
+    background-color: rgb(114, 114, 231);
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: hotpink;
+}
+
+a:active {
+    text-decoration: none;
+    color: blue;
+}

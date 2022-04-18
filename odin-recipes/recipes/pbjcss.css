@@ -1,0 +1,37 @@
+body {
+    background-image: url(images/abstractblue.jpg);
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(52, 92, 73);
+    color: rgb(255, 255, 255);
+}
+
+.picture {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    background-color: rgb(52, 92, 73);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.ingredients {
+    text-align: center;
+    background-color: rgb(52, 92, 73);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.list {
+    background-color: rgb(52, 92, 73);
+    color: rgb(255, 255, 255);
+}
+
+.ordered-list {
+    background-color: rgb(52, 92, 73);
+    color: rgb(255, 255, 255);
+}
